@@ -7,12 +7,12 @@ Pre-requisits:
 Install Python3 (Python 3.7.3) with pip3
 Quick Setup
 
-Clone the repository: git clone https://github.com/Lekssays/ddos-tool.git
+Clone the repository: git clone https://github.com/Davidddosfkf/ddos-tool.git
 Install pip requirements: pip3 install -r requirements.txt
 Run the program
 
-Usage: python3 script.py [-h] [-u USER_AGENTS] -t TARGET -tr THREADS -s SLEEP
-Example: python3 script.py -u user_agents.txt -t http://example.com -tr 1000 -s 200
+Usage: python3 JJ.py [-h] [-u USER_AGENTS] -t TARGET -tr THREADS -s SLEEP
+Example: python3 JJ.py -u user_agents.txt -t http://example.com -tr 1000 -s 200
 -h: to display help menu
 -t: to specify the target (REQUIRED)
 -u: to specify user-agents text file (REQUIRED)
