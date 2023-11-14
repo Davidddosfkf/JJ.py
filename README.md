@@ -7,7 +7,7 @@ Pre-requisits:
 Install Python3 (Python 3.7.3) with pip3
 Quick Setup
 
-Clone the repository: git clone https://github.com/Davidddosfkf/ddos-tool.git
+Clone the repository: git clone https://github.com/Davidddosfkf/JJ.py.git
 Install pip requirements: pip3 install -r requirements.txt
 Run the program
 
