@@ -1,5 +1,9 @@
-# JJ.py
+JJ.py
 ddos attack
+Deployment
+
+Pre-requisits:
+
 Install Python3 (Python 3.7.3) with pip3
 Quick Setup
 
